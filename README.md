@@ -5,12 +5,12 @@ The purpose of this analysis was to combine 2 data workbooks into one data set t
 
 # Results
 
-Rural
-•	Total rides- 125
-•	Total Drivers-78
-•	Total Fares- $4327.93
-•	Avg. fare per ride – $34.62
-•	Avg Fare per driver- $55.49
+## Rural
+•Total rides- 125
+•Total Drivers-78
+•Total Fares- $4327.93
+•Avg. fare per ride – $34.62
+•Avg Fare per driver- $55.49
 
 Suburban
 •	Total rides- 625
