@@ -11,12 +11,14 @@ Rural
 •	Total Fares- $4327.93
 •	Avg. fare per ride – $34.62
 •	Avg Fare per driver- $55.49
+
 Suburban
 •	Total rides- 625
 •	Total Drivers-490
 •	Total Fares- $19356.33
 •	Avg. fare per ride- $30.97
 •	Avg. fare per driver- $39.50
+
 Urban
 •	Total rides- 1625
 •	Total Drivers-2405
