@@ -5,26 +5,26 @@ The purpose of this analysis was to combine 2 data workbooks into one data set t
 
 # Results
 
-Rural
+**Rural**
   - Total rides- 125
   - Total Drivers-78
   - Total Fares- $4327.93
   - Avg. fare per ride – $34.62
   - Avg Fare per driver- $55.49
 
-Suburban
-•	Total rides- 625
-•	Total Drivers-490
-•	Total Fares- $19356.33
-•	Avg. fare per ride- $30.97
-•	Avg. fare per driver- $39.50
+**Suburban**
+  - Total rides- 625
+  - Total Drivers-490
+  - Total Fares- $19356.33
+  - Avg. fare per ride- $30.97
+  - Avg. fare per driver- $39.50
 
-Urban
-•	Total rides- 1625
-•	Total Drivers-2405
-•	Total Fares- $39854.38
-•	Avg. fare per ride- $24.53
-•	Avg fare per driver- $16.57
+**Urban**
+  - Total rides- 1625
+  - Total Drivers-2405
+  - Total Fares- $39854.38
+  - Avg. fare per ride- $24.53
+  - Avg fare per driver- $16.57
 
 
 ![download](https://user-images.githubusercontent.com/86068655/143804221-0f65146d-23c5-471f-b947-2580bbbb579b.png)
